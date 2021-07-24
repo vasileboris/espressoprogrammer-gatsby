@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `ESPRESSO PROGRAMMER`,
+    title: `Espresso Programmer`,
     author: {
       name: `Vasile Boris`,
       summary: `Programmer, team lead, trainer & coach.`,
@@ -119,8 +119,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Espresso Programmer`,
+        short_name: `Espresso Programmer`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
