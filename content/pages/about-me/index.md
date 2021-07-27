@@ -21,5 +21,5 @@ The first reason is quite selfish. I am sure that by preparing good posts I will
 
 When I started preparing the site I found out that the other good names I thought for were already taken. Then I realized that my main fuel for writing code is coffee, espresso of course. From that thought to actually making my mind was only a step.
 
-[vasile-boris]: http://espressoprogrammer.com/blog/wp-content/uploads/2016/05/boris-1.jpg
-[vasile-boris-resume]: http://espressoprogrammer.com/resume "My professional resume"
+[vasile-boris]: about-me.png
+[vasile-boris-resume]: ./resume "My professional resume"

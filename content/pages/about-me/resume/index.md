@@ -1,6 +1,11 @@
+---
+title: Resume
+type: page
+---
+
 ## Vasile Mircea Boris
 
-![](https://i2.wp.com/espressoprogrammer.com/blog/wp-content/uploads/2018/07/boris-camino.png)
+![](resume.png)
 Email: [vasileboris@gmail.com](mailto:vasileboris@gmail.com)
 Website: [https://espressoprogrammer.com/](https://espressoprogrammer.com/)
 Twitter: [http://twitter.com/vasileboris](http://twitter.com/vasileboris)
