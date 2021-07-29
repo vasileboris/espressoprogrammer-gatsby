@@ -1,4 +1,7 @@
-# My Reads
+---
+title: My Reads
+type: page
+---
 
 [Google Play app][myreads-google-play]
 [Details][details]
@@ -6,6 +9,6 @@
 [Privacy Policy][privacy-policy]
 
 [myreads-google-play]: https://play.google.com/store/apps/details?id=com.espressoprogrammer.myreads
-[details]: http://espressoprogrammer.com/my-reads/details
-[help]: http://espressoprogrammer.com/my-reads/help
-[privacy-policy]: http://espressoprogrammer.com/my-reads/privacy-policy
+[details]: /my-reads/details
+[help]: /my-reads/help
+[privacy-policy]: /my-reads/privacy-policy

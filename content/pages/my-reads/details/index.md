@@ -1,4 +1,7 @@
-# My Reads
+---
+title: My Reads
+type: page
+---
 
 ## Application details
 
@@ -37,7 +40,7 @@
 * License: [Attribution 3.0 Unported (CC BY 3.0)][creativecommons-unported-3.0]
 * Changes: Updated format from svg to png and changed color
 
-[about-me]: https://espressoprogrammer.com/about-me/
+[about-me]: /about-me/
 [license-mit]: https://opensource.org/licenses/MIT
 [react-native]: https://facebook.github.io/react-native/
 [expo]: https://expo.io/
@@ -51,12 +54,12 @@
 [typicons-2-author]: https://www.s-ings.com/me/
 [creativecommons-unported-3.0]: https://creativecommons.org/licenses/by/3.0/
 [jet-brains]: https://www.jetbrains.com/?from=MyReads
-[book-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/book.png
-[open-book-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/open-book.png
-[menu-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/menu.png
-[home-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/home.png
-[help-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/help.png
-[info-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/info.png
-[lock-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/lock.png
-[jetbrains-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/jetbrains.png
+[book-png]: ./book.png
+[open-book-png]: ./open-book.png
+[menu-png]: ./menu.png
+[home-png]: ./home.png
+[help-png]: ./help.png
+[info-png]: ./info.png
+[lock-png]: ./lock.png
+[jetbrains-png]: ./jetbrains.png
 [jetbrains-my-reads]: https://www.jetbrains.com/?from=MyReads

@@ -1,4 +1,7 @@
-# Privacy Policy
+---
+title: Privacy Policy
+type: page
+---
 
 [Espresso Programmer][about-me] built the [My Reads][my-reads] app as an Open Source app. This SERVICE is provided by [Espresso Programmer][about-me] at no cost and is intended for use as is.
 
@@ -46,8 +49,8 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to [contact me][contact-me].
 
-[about-me]: https://espressoprogrammer.com/about-me/
-[contact-me]: https://espressoprogrammer.com/about-me/resume/
+[about-me]: /about-me/
+[contact-me]: /about-me/resume/
 [my-reads]: https://github.com/vasileboris/MyReads
 [expo-io]: https://expo.io/
 [expo-io-terms]: https://expo.io/terms

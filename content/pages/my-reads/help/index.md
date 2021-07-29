@@ -1,4 +1,7 @@
-# My Reads
+---
+title: My Reads
+type: page
+---
 
 ## Why
 
@@ -54,13 +57,13 @@ Tap the book, choose ADD READING, tap the reading session, choose DELETE. You'll
 
 ![delete-reading-session][delete-reading-session-png]
 
-[reading-session-progress-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/reading-session-progress.png
+[reading-session-progress-png]: ./reading-session-progress.png
 
-[add-book-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/add-book.png
-[all-books-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/all-books.png
-[filtered-books-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/filtered-books.png
-[edit-book-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/edit-book.png
-[delete-book-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/delete-book.png
-[add-reading-session-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/add-reading-session.png
-[edit-reading-session-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/edit-reading-session.png
-[delete-reading-session-png]: https://espressoprogrammer.com/blog/wp-content/uploads/2019/08/delete-reading-session.png
+[add-book-png]: ./add-book.png
+[all-books-png]: ./all-books.png
+[filtered-books-png]: ./filtered-books.png
+[edit-book-png]: ./edit-book.png
+[delete-book-png]: ./delete-book.png
+[add-reading-session-png]: ./add-reading-session.png
+[edit-reading-session-png]: ./edit-reading-session.png
+[delete-reading-session-png]: ./delete-reading-session.png
