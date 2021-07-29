@@ -61,5 +61,5 @@ type: page
 [help-png]: ./help.png
 [info-png]: ./info.png
 [lock-png]: ./lock.png
-[jetbrains-png]: ./jetbrains.png
+[jetbrains-png]: ./jetbrains.svg
 [jetbrains-my-reads]: https://www.jetbrains.com/?from=MyReads
