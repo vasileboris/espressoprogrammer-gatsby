@@ -1,4 +1,7 @@
-# JSON Resume Markdown Theme
+---
+title: JSON Resume Markdown Theme
+type: page
+---
 
 ## About
 

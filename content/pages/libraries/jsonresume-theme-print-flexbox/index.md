@@ -1,4 +1,7 @@
-# JSON Resume Print Flexbox Theme
+---
+title: JSON Resume Print Flexbox Theme
+type: page
+---
 
 ## About
 
