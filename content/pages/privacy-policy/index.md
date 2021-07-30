@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+type: page
+---
+
 ## What personal data we collect and why we collect it
 
 ### Email address

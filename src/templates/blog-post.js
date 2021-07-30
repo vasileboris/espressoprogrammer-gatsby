@@ -44,14 +44,14 @@ const BlogPostTemplate = ({ data }) => {
           }}
         >
           <li>
-            {previous && (
+            {'post' === post.frontmatter.type && previous && (
               <Link to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
-            {next && (
+            {'post' === post.frontmatter.type && next && (
               <Link to={next.fields.slug} rel="next">
                 {next.frontmatter.title} →
               </Link>
@@ -85,6 +85,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        type
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
