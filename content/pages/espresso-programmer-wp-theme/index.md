@@ -1,6 +1,7 @@
 ---
 title: Espresso Programmer WordPress Theme
 type: page
+order: 4
 ---
 
 ## Welcome!

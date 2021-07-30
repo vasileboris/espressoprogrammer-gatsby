@@ -1,6 +1,7 @@
 ---
 title: My Reads
 type: page
+order: 2
 ---
 
 [Google Play app][myreads-google-play]

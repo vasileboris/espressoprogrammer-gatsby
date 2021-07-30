@@ -120,6 +120,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       description: String
       date: Date @dateformat
       type: String
+      order: Int
     }
 
     type Fields {

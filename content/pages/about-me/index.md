@@ -1,6 +1,7 @@
 ---
 title: About Me
 type: page
+order: 1
 ---
 
 ## Who am I?
