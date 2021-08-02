@@ -9,7 +9,7 @@ const Layout = ({ data, children }) => {
     <div className="page">
       <Header data={data}/>
       <Navigation/>
-      <main>{children}</main>
+      <main className="posts">{children}</main>
       <Footer/>
     </div>
   )
