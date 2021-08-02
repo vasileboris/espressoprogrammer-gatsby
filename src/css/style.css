@@ -123,7 +123,7 @@ blockquote {
 
 
 /* Module */
-.posts {
+.content {
   float: right;
   width: 100%;
   max-width: var(--max-content-width);
@@ -286,6 +286,13 @@ blockquote {
   text-align: right;
 }
 
+.posts-list {
+  list-style: none;
+  padding-inline-start: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
 .post-image {
   width: 100%;
   height: auto;
@@ -397,11 +404,11 @@ blockquote {
 
 
   /* Layout */
-  #page {
+  .page {
     padding: 0 var(--elements-padding) 0 var(--elements-padding);
   }
 
-  #header {
+  .header {
     margin-left: auto;
     margin-right: auto;
   }
@@ -430,7 +437,7 @@ blockquote {
     text-align: left;
   }
 
-  .posts {
+  .content {
     float: none;
     max-width: var(--max-content-width);
     margin-left: auto;

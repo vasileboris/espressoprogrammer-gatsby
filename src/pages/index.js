@@ -1,10 +1,10 @@
-import * as React from "react"
-import { Link, graphql } from "gatsby"
+import * as React from 'react'
+import { Link, graphql } from 'gatsby'
 
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Layout from '../components/layout'
+import Seo from '../components/seo'
 
-const BlogIndex = ({ data }) => {
+const Index = ({ data }) => {
   const posts = data.allMarkdownRemark.nodes
 
   if (posts.length === 0) {
@@ -23,7 +23,7 @@ const BlogIndex = ({ data }) => {
   return (
     <Layout data={data}>
       <Seo title="All posts" />
-      <ol style={{ listStyle: `none` }}>
+      <ol className="posts-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
@@ -59,7 +59,7 @@ const BlogIndex = ({ data }) => {
   )
 }
 
-export default BlogIndex
+export default Index
 
 export const pageQuery = graphql`
   query {
