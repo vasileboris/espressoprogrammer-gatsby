@@ -5,8 +5,11 @@ order: 2
 ---
 
 [Google Play app][myreads-google-play]
+
 [Details][details]
+
 [Help][help]
+
 [Privacy Policy][privacy-policy]
 
 [myreads-google-play]: https://play.google.com/store/apps/details?id=com.espressoprogrammer.myreads

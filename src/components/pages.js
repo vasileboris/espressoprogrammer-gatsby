@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby'
 
-const Navigation = () => {
+const Pages = () => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
@@ -38,4 +38,4 @@ const Navigation = () => {
   )
 }
 
-export default Navigation
+export default Pages

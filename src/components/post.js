@@ -9,11 +9,11 @@ const Post = ({ data }) => {
       itemScope
       itemType="http://schema.org/Article"
     >
-      <header>
+      <header className="post-info">
         <h1 itemProp="headline">{post.frontmatter.title}</h1>
-        <p>{post.frontmatter.date}</p>
+        <time className="post-time">{post.frontmatter.date}</time>
       </header>
-      <section
+      <section className="post-content"
         dangerouslySetInnerHTML={{ __html: post.html }}
         itemProp="articleBody"
       />

@@ -6,12 +6,15 @@ type: page
 ## Vasile Mircea Boris
 
 ![](resume.png)
-Email: [vasileboris@gmail.com](mailto:vasileboris@gmail.com)
-Website: [https://espressoprogrammer.com/](https://espressoprogrammer.com/)
-Twitter: [http://twitter.com/vasileboris](http://twitter.com/vasileboris)
-Linkedin: [https://www.linkedin.com/in/vasileboris/](https://www.linkedin.com/in/vasileboris/)
-GitHub: [http://github.com/vasileboris](http://github.com/vasileboris)
-Address: Cluj Napoca, Cluj, RO
+
+|||
+|---|---|
+| Email: | [vasileboris@gmail.com](mailto:vasileboris@gmail.com) |
+| Website: | [https://espressoprogrammer.com/](https://espressoprogrammer.com/) |
+| Twitter: | [http://twitter.com/vasileboris](http://twitter.com/vasileboris) |
+| Linkedin: | [https://www.linkedin.com/in/vasileboris/](https://www.linkedin.com/in/vasileboris/) |
+| GitHub: | [http://github.com/vasileboris](http://github.com/vasileboris) |
+| Address: | Cluj Napoca, Cluj, RO |
 
 ## Overview
 
