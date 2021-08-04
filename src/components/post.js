@@ -17,7 +17,6 @@ const Post = ({ data }) => {
         dangerouslySetInnerHTML={{ __html: post.html }}
         itemProp="articleBody"
       />
-      <hr />
       <footer>
       </footer>
     </article>
