@@ -25,7 +25,7 @@ If you are going to start blogging, learning a little bit about the process will
 
 Image credit: [Tanja-Denise Schantz][pixabay-yourschantz], CC0 Public Domain
 
-[featured-image]: typewriter-512149_640.png
+[featured-image]: typewriter-512149_640.jpg
 [what-is-programmer]: /what-is-programmer/ "What is a programmer?"
 [15-days-freedom-blog-challenge]:http://suitcaseentrepreneur.com/15-days-freedom-blog-challenge "15 Days to Freedom Blog Challenge"
 [natalie-sisson]: http://suitcaseentrepreneur.com/about/ "Natalie: Who Are You and Why Are You Here?!"
