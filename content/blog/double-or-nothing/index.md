@@ -1,6 +1,6 @@
 ---
 title: Double or nothing
-date: "2016-02-29"
+date: 2016-02-29
 type: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Lenient date parser
-date: "2016-05-10"
+date: 2016-05-10
 type: post
 ---
 

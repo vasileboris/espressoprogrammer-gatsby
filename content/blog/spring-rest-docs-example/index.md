@@ -1,6 +1,6 @@
 ---
 title: Spring REST Docs example
-date: "2016-06-13"
+date: 2016-06-13
 type: post
 ---
 

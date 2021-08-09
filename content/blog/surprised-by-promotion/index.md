@@ -1,6 +1,6 @@
 ---
 title: Surprised by a promotion
-date: "2015-11-24"
+date: 2015-11-24
 type: post
 ---
 

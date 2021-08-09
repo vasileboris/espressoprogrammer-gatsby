@@ -1,6 +1,6 @@
 ---
 title: Recursive class initialization in Java
-date: "2015-12-01"
+date: 2015-12-01
 type: post
 ---
 

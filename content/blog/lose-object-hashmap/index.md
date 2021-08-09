@@ -1,6 +1,6 @@
 ---
 title: How to lose an object in HashMap
-date: "2016-05-16"
+date: 2016-05-16
 type: post
 ---
 

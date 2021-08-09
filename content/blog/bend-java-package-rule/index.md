@@ -1,6 +1,6 @@
 ---
 title: Bend java package rule
-date: "2015-12-07"
+date: 2015-12-07
 type: post
 ---
 

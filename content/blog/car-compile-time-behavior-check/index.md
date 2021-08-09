@@ -1,6 +1,6 @@
 ---
 title: I wish my car had compile time behavior check
-date: "2015-12-22"
+date: 2015-12-22
 type: post
 ---
 

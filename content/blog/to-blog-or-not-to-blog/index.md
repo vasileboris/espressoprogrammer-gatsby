@@ -1,6 +1,6 @@
 ---
 title: To blog or not to blog
-date: "2015-12-04"
+date: 2015-12-04
 type: post
 ---
 

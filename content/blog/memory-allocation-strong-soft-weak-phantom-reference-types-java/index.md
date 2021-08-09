@@ -1,6 +1,6 @@
 ---
 title: Memory allocation with Strong, Soft, Weak And Phantom reference types in Java
-date: "2016-04-11"
+date: 2016-04-11
 type: post
 ---
 

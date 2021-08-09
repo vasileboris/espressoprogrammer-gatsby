@@ -1,6 +1,6 @@
 ---
 title: Bypass forward references during field initialization in Java
-date: "2016-04-25"
+date: 2016-04-25
 type: post
 ---
 

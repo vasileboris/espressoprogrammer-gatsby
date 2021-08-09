@@ -1,6 +1,6 @@
 ---
 title: Why I like MarkDown?
-date: "2015-11-08"
+date: 2015-11-08
 type: post
 ---
 

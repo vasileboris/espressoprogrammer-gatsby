@@ -1,6 +1,6 @@
 ---
 title: Primitives competition (3)
-date: "2016-02-15"
+date: 2016-02-15
 type: post
 ---
 

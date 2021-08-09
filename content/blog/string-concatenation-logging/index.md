@@ -1,6 +1,6 @@
 ---
 title: String  concatenation for logging
-date: "2015-12-16"
+date: 2015-12-16
 type: post
 ---
 

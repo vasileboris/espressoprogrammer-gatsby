@@ -1,6 +1,6 @@
 ---
 title: What is a programmer?
-date: "2015-11-01"
+date: 2015-11-01
 type: post
 ---
 

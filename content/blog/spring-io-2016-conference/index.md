@@ -1,6 +1,6 @@
 ---
 title: Spring I/O 2016 the conference
-date: "2016-05-30"
+date: 2016-05-30
 type: post
 ---
 
