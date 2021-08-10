@@ -2,7 +2,7 @@
   "name": "espressoprogrammer-gatsby",
   "private": true,
   "description": "Espressoprogrammer Gatsby blog version",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "Vasile Boris <vasileboris@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
