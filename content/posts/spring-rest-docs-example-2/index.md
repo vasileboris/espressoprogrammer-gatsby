@@ -189,7 +189,7 @@ and generated documentation looks like:
 
 [![add-user-book-image][add-user-book-image]][add-user-book-image]
 
-All the other resources and operations from this project are similar with these two and it does not make sense to repeat the information. I hope you found this post usefull and if you want all details, you can check [the code][library] and <a href="/html/blog/spring-rest-docs-example-2/library-api-guide.html" target="_blank">the entire generated documentation</a>.
+All the other resources and operations from this project are similar with these two and it does not make sense to repeat the information. I hope you found this post usefull and if you want all details, you can check [the code][library] and <a href="/html/posts/spring-rest-docs-example-2/library-api-guide.html" target="_blank">the entire generated documentation</a>.
 
 [spring-restdocs]: https://projects.spring.io/spring-restdocs/
 [spring-rest-docs-example]: /spring-rest-docs-example
@@ -197,5 +197,5 @@ All the other resources and operations from this project are similar with these 
 [library]: https://github.com/vasileboris/library
 [junit]: http://junit.org/
 [spring-boot]: https://projects.spring.io/spring-boot/
-[retrieve-user-books-image]: /images/blog/spring-rest-docs-example-2/retrieve-user-books.png
-[add-user-book-image]: /images/blog/spring-rest-docs-example-2/add-user-book.png
+[retrieve-user-books-image]: /images/posts/spring-rest-docs-example-2/retrieve-user-books.png
+[add-user-book-image]: /images/posts/spring-rest-docs-example-2/add-user-book.png

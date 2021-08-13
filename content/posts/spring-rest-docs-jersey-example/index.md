@@ -415,7 +415,7 @@ and an empty `applicationContext.xml` in `src/test/resources` otherwise Jersey t
 
 </beans>
 ```
-After running `mvn clean package` <a href="/html/blog/spring-rest-docs-jersey-example/greeting-service-jersey-api-guide.html" target="_blank">generated documentation</a> can be found in `target/generated-docs` folder:
+After running `mvn clean package` <a href="/html/posts/spring-rest-docs-jersey-example/greeting-service-jersey-api-guide.html" target="_blank">generated documentation</a> can be found in `target/generated-docs` folder:
 
 ![generated documentation][greeting-service-jersey-api-guide-image]
 
@@ -428,4 +428,4 @@ This is still a very simple example, hopefully these were the last surprises and
 [stackoverflow]: http://stackoverflow.com
 [stackoverflow-jersey-spring-restdocs]: http://stackoverflow.com/questions/35068860/is-it-possible-to-use-spring-restdocs-with-jersey-application
 [greeting-service-jersey]: https://github.com/vasileboris/espressoprogrammer/tree/master/greeting-service-jersey
-[greeting-service-jersey-api-guide-image]: /images/blog/spring-rest-docs-jersey-example/greeting-service-jersey-api-guide.png
+[greeting-service-jersey-api-guide-image]: /images/posts/spring-rest-docs-jersey-example/greeting-service-jersey-api-guide.png

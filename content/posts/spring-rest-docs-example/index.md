@@ -228,7 +228,7 @@ Besides these three default snippets our test methods generate two additional sn
 * request-parameters.adoc - Contains a table with documented request parameters
 * response-fields.adoc - Contains a table with documented response fields
 
-After running `mvn clean package` <a href="/html/blog/spring-rest-docs-example/greeting-service-api-guide.html" target="_blank">generated documentation</a> can be found in `target/generated-docs` folder:
+After running `mvn clean package` <a href="/html/posts/spring-rest-docs-example/greeting-service-api-guide.html" target="_blank">generated documentation</a> can be found in `target/generated-docs` folder:
 
 ![generated documentation][greeting-service-api-guide-image]
 
@@ -339,6 +339,6 @@ I didn't use [Spring REST docs][spring-restdocs] to document real production cod
 [documentating-your-api-parameterized-output-directories]: http://docs.spring.io/spring-restdocs/docs/1.0.x/reference/html5/#documentating-your-api-parameterized-output-directories
 [working-with-asciidoctor-including-snippets]: http://docs.spring.io/spring-restdocs/docs/1.0.x/reference/html5/#working-with-asciidoctor-including-snippets
 [documenting-your-api-default-snippets]: http://docs.spring.io/spring-restdocs/docs/1.0.x/reference/html5/#documenting-your-api-default-snippets
-[greeting-service-api-guide]: /html/blog/spring-rest-docs-example/greeting-service-api-guide.html
+[greeting-service-api-guide]: /html/posts/spring-rest-docs-example/greeting-service-api-guide.html
 [greeting-service-api-guide-adoc]: https://github.com/vasileboris/espressoprogrammer/blob/master/greeting-service/src/docs/asciidocs/api-guide.adoc
-[greeting-service-api-guide-image]: /images/blog/spring-rest-docs-example/greeting-service-api-guide.png
+[greeting-service-api-guide-image]: /images/posts/spring-rest-docs-example/greeting-service-api-guide.png

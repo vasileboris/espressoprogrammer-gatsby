@@ -58,4 +58,4 @@ This example helped me to understand much better how memory management is done w
 [java-reference-objects]: http://www.kdgregory.com/index.php?page=java.refobj "Java Reference Objects or How I Learned to Stop Worrying and Love OutOfMemoryError"
 [references-example]: https://github.com/vasileboris/espressoprogrammer/tree/master/references
 [hsqldb]: http://hsqldb.org/ "HSQLDB - 100% Java Database"
-[references-image]: /images/blog/memory-allocation-strong-soft-weak-phantom-reference-types-java/references.png
+[references-image]: /images/posts/memory-allocation-strong-soft-weak-phantom-reference-types-java/references.png
