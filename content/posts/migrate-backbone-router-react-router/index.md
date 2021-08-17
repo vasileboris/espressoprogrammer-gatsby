@@ -306,7 +306,7 @@ export default ReadingSessionsView;
 
 This is not needed anymore and actually I have to do the opposite now
 
-```javascritpt
+```javascript
 import React from 'react';
 import LibraryView from 'views/LibraryView';
 
